@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    // FE
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    // BE
+    "ms-python.flake8",
+    "ms-python.black-formatter",
+    "njpwerner.autodocstring",
+    // SQLite
+    "alexcvzz.vscode-sqlite",
+    "qwtel.sqlite-viewer",
+    // .editorconfig
+    "EditorConfig.EditorConfig",
+    // MarkDown File Viewer
+    "bierner.markdown-preview-github-styles",
+    // PDF Viewer
+    "tomoki1207.pdf"
+  ]
+}
