@@ -1,0 +1,9 @@
+{
+  // Python ファイル用の設定
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  // Python 拡張が提供するフォーマッター連携は無効にしておく
+  "python.formatting.provider": "none"
+}
