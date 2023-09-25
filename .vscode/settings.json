@@ -1,4 +1,10 @@
 {
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "eslint.run": "onSave",
+
   // Python ファイル用の設定
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter",
